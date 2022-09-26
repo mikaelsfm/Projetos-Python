@@ -1,7 +1,8 @@
 lista_contatos= {
-    'Mikael': ['12345678'],
+    'Mikael': ['12345678'],                                                 #contatos teste já inseridos na lista#
     'Luciana': ['87654321']
 }
+
 def menuPrincipal():
     while True:
         print('***Agenda Telefônica***')
